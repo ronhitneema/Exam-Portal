@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MyApp</title>
+        <link href="./logo.png" rel="icon" />
+        <link href="./style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div id="container">
+            <div id="header">
+                <img id="logo" height="120" width="250" src="logo.png" />
+            </div>
+            <div id="nav">
+                <center>
+                <ul id="menuul">
+                    <a href="index.html"><li class="menuli">Home</li></a>
+                    <a href="about.html"><li class="menuli">About</li></a>
+                    <a href="contact.html"><li class="menuli">Contact</li></a>
+                    <a href="service.html"><li class="menuli">Service</li></a>
+                    <a href="login.html"><li class="menuli">Login</li></a>
+                </ul> 
+                </center>    
+            </div>
+            <div id="content">
+             <center>
+             <h1>Login page</h1>
+             </center>
+             </div>
+            <div id="footer">
+                <br/><br/>
+                <center>
+                    <h1>All Right Reserved &copy; 2017 ,By VIT</h1>
+                </center>
+            </div>
+        </div>    
+    </body>
+</html>
